@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>KeyboardPage.qml</file>
+        <file>Images/centralscreenbg.png</file>
+        <file>Images/normalinput.png</file>
+        <file>Images/toolbarbuttonnormal.png</file>
+        <file>Images/toolbarbuttonactive.png</file>
+        <file>Images/toolbarbuttonhover.png</file>
+    </qresource>
+</RCC>
